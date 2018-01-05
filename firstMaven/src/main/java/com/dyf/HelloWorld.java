@@ -76,7 +76,7 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("first Maven!!");
+		System.out.println("-------------first Maven!!");
 
 	}
 
