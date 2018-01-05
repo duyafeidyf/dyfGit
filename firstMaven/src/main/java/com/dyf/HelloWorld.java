@@ -36,7 +36,7 @@ package com.dyf;
  * @Title:HelloWorld
  * @Description:   
  * @author   duyafei
- * @date     2018年1月5日 上午11:24:56	
+ * @date     2018年1月5日 下午1:54:37	
  */
 
 public class HelloWorld {
@@ -72,11 +72,11 @@ public class HelloWorld {
 	 *　　　　　　　　　　┗┻┛　┗┻┛+ + + + 
 	 * @Description:    
 	 * @author   duyafei
-	 * @date     2018年1月5日 上午11:24:56 	
+	 * @date     2018年1月5日 下午1:54:37 	
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("神兽保佑，代码无bug！");
+		System.out.println("first Maven!!");
 
 	}
 
